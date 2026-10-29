@@ -1,0 +1,18 @@
+# LLM calls and structured agent outputs
+openai>=1.0
+langgraph
+langchain-openai
+pydantic>=2.0
+python-dotenv>=1.0
+
+# User interface
+streamlit>=1.30
+
+# Statement retrieval and document ingestion
+faiss-cpu>=1.8
+pypdf>=4.0
+openpyxl>=3.1
+
+# Deterministic financial calculations and tabular data
+pandas>=2.0
+numpy>=1.26
